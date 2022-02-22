@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Bigelow Rules
+- Font Author: Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name "Bigelow Rules"
+- Font Source: http://fonts.gstatic.com/s/bigelowrules/v21/RrQWboly8iR_I3KWSzeRuN0zT4cCH8WAJVk.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
