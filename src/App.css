@@ -1,9 +1,12 @@
 body {
     padding: 30px 0;
+    width: 100vw;
   }
   
   .App {
     text-align: center;
+    margin: auto;
+    width: 100%;
   }
   
   h1 {
